@@ -467,10 +467,15 @@ Extra */
     position: relative;
   }
 
+  .current.tl_label:after {
+    border-right-color : transparent;
+    border-bottom-color: #2196f3;
+  }
+
   .tl_label:after {
     right: auto;
     left: 1.7em;
-    border-right-color: transparent;
+    border-right-color : transparent;
     border-bottom-color: #607d8b;
     top: -20px;
   }
