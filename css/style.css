@@ -209,6 +209,10 @@ Body */
   top: 10px;
 }
 
+.current.tl_label:after {
+  border-right-color: #2196f3;
+}
+
 /* Titles - text containers -- timeline */
 .tl_label h2 {
   margin-top: 0px;
