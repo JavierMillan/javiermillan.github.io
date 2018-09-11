@@ -468,8 +468,8 @@ Extra */
   }
 
   .current.tl_label:after {
-    border-bottom-color : transparent;
-    border-right-color: #2196f3;
+    border-color: transparent;
+    border-bottom-color: #2196f3;
   }
 
   .tl_label:after {
